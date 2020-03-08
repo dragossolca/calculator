@@ -1,0 +1,8 @@
+{
+    "author": "Dragos",
+    "version": "1.0.0",
+    "main": "main.js",
+    "dependencies": {
+        "cowsay": "^1.4.0"
+    }
+}
