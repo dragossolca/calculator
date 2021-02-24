@@ -1,5 +1,5 @@
 # calculator
-Simple node.js calculator 
+Simple node.js calculator- made in the 2nd year of uni
 
 Supports the following options:
 - help 
